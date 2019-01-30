@@ -1,0 +1,9 @@
+*{
+background-color:#415201;
+font-family:Courier New;
+}
+table,th,tr,td{
+	border:1px solid red;
+	border-collapse:collapse;
+	color:white;
+}
