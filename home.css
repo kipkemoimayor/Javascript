@@ -28,4 +28,15 @@ button:hover{
 	background-color:rgba(148,101,94,0.5);
 	color:#124510;
 }
-
+nav{
+    width: 100%;
+    padding: 10px;
+    background-color: burlywood;
+    color: aliceblue;
+    flex-wrap: nowrap;
+    
+}
+nav a{
+    text-decoration: none;
+    
+}
